@@ -1,4 +1,4 @@
-![EcoTrack Logo](EcoTrack_Logo.png)
+![EcoTrack Logo](./EcoTrack_Logo.png)
 # EcoTrack
 ## Carbon Footprint Monitoring Application
 
