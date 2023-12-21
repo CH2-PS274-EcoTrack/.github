@@ -1,4 +1,6 @@
-# EcoTrack: Carbon Footprint Monitoring Application
+![EcoTrack Logo](EcoTrack_Logo.png)
+# EcoTrack
+## Carbon Footprint Monitoring Application
 
 ### Bangkit Capstone Team: CH2-PS274 
 
